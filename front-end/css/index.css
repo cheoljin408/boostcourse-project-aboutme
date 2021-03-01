@@ -91,6 +91,10 @@ footer {
 	box-shadow: 3px 3px 6px #999999;
 }
 
+.box > div > a {
+	text-decoration: none;
+}
+
 .map > img {
 	width: 600px;
 	height: auto;

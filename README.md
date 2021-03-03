@@ -1,6 +1,6 @@
 # boostcourse-project-aboutme
 
-#### 📍 웹 프론트엔드 기술 요구사항
+### 📍 웹 프론트엔드 기술 요구사항
 - html layout tag를 사용.
 - classname은 일정한 컨벤션을 유지
 - 의미에 맞는 tag를 최대한 사용하기.(div 사용은 최대한 자제)
